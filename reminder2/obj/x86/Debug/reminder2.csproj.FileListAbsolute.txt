@@ -1,0 +1,10 @@
+G:\vb new\reminder2\reminder2\bin\Debug\reminder2.exe
+G:\vb new\reminder2\reminder2\bin\Debug\reminder2.pdb
+G:\vb new\reminder2\reminder2\obj\x86\Debug\reminder2.Form1.resources
+G:\vb new\reminder2\reminder2\obj\x86\Debug\reminder2.Properties.Resources.resources
+G:\vb new\reminder2\reminder2\obj\x86\Debug\reminder2.csproj.GenerateResource.Cache
+G:\vb new\reminder2\reminder2\obj\x86\Debug\reminder2.exe
+G:\vb new\reminder2\reminder2\obj\x86\Debug\reminder2.pdb
+G:\vb new\reminder2\reminder2\obj\x86\Debug\reminder2.Form2.resources
+G:\vb new\reminder2\reminder2\obj\x86\Debug\reminder2.csprojResolveAssemblyReference.cache
+G:\vb new\reminder2\reminder2\obj\x86\Debug\reminder2.Form3.resources
